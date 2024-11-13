@@ -1,2 +1,2 @@
 # qwerty
-[link_to_be_displayed](https://github.com/sanjana26489/qwerty/edit/main/README.md)
+[link_to_be_displayed](https://www.google.com/search?q=wallpapers+for+laptop&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQkxNzQ5ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8)
